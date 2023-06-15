@@ -1,0 +1,15 @@
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.exe
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.deps.json
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.dll
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\bin\Debug\net6.0\ConsoleApp6.pdb
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.dll
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\refint\ConsoleApp6.dll
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.pdb
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+D:\坚果云同步\我的坚果云\Web进步\ConsoleApp6\obj\Debug\net6.0\ref\ConsoleApp6.dll
