@@ -1,30 +1,28 @@
 pipeline {
     agent any
-    
+
     stages {
-    stage('Build') {
-        steps {
-            // 在此处进行您的构建操作，生成镜像
-            // 例如，使用 Dockerfile 构建您的项目镜像
-            sh 'docker build -t consoleapp6-image:1.0 .'
+        stage('Build') {
+            steps {
+                // 在此处进行构建操作，生成镜像
+                // 例如使用 Dockerfile 构建项目镜像
+                sh 'docker build -t consoleapp6-image:1.0 .'
+            }
         }
-    }
 
-    stage('Publish') {
-        steps {
-            script {
-                // 登录到 Docker Hub
-                sh 'docker login -u libaibaihi -p qSNz9ofsnKb00A4c'
+        stage('Publish') {
+            steps {
+                script {
+                    // 登录到 Harbor
+                    withDockerRegistry([credentialsId: 'Harbor_User_001', url: 'http://192.168.226.130:8082']) {
+                        // 标记镜像
+                        sh 'docker tag myproject:1.0 192.168.226.130:8082/text-cloud/myproject:1.0'
 
-                // 标记镜像
-                sh 'docker tag consoleapp6-image:1.0 libaibaihi/consoleapp6:1.0'
-
-                // 推送镜像到 Docker Hub
-                sh 'docker push libaibaihi/consoleapp6:1.0'
+                        // 推送镜像到 Harbor
+                        sh 'docker push 192.168.226.130:8082/text-cloud/myproject:1.0'
+                    }
+                }
             }
         }
     }
-
-}
-
 }
