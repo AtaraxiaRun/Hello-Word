@@ -16,7 +16,7 @@ pipeline {
                     // 登录到 Harbor
                     withDockerRegistry([credentialsId: 'Harbor_User_003', url: 'http://192.168.226.130:8082']) {
                         // 标记镜像
-                        sh 'docker tag myproject:1.0 192.168.226.130:8082/text-cloud/consoleapp6-image:1.0'
+                        sh 'docker tag consoleapp6-image:1.0 192.168.226.130:8082/text-cloud/consoleapp6-image:1.0'
 
                         // 推送镜像到 Harbor
                         sh 'docker push 192.168.226.130:8082/text-cloud/consoleapp6-image:1.0'
