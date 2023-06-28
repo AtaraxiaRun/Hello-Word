@@ -14,7 +14,7 @@ pipeline {
             steps {
                 script {
                     // 登录到 Harbor
-                    withDockerRegistry([credentialsId: 'Harbor_User_001', url: 'http://192.168.226.130:8082']) {
+                    withDockerRegistry([credentialsId: 'Harbor_User_002', url: 'http://192.168.226.130:8082']) {
                         // 标记镜像
                         sh 'docker tag myproject:1.0 192.168.226.130:8082/text-cloud/myproject:1.0'
 
