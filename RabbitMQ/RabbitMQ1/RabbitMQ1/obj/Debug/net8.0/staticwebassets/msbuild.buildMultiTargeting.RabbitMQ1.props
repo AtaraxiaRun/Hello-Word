@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RabbitMQ1.props" />
+</Project>
