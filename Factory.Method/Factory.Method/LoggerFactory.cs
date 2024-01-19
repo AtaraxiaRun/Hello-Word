@@ -22,12 +22,22 @@ namespace Factory.Method
             }
             else if (type.Equals("File"))
             {
-                return new FileLogger("log.txt");
+                return new FileLogger();
             }
             else
             {
                 throw new Exception("Invalid logger type");
             }
+        }
+
+        public ILogger CreateConsoleLogger()
+        {
+            return new ConsoleLogger();
+        }
+
+        public ILogger CreateFileLogger()
+        {
+            return new FileLogger();
         }
     }
 }
