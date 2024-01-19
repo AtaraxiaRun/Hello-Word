@@ -1,0 +1,15 @@
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\bin\Debug\net8.0\Factory.Method.exe
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\bin\Debug\net8.0\Factory.Method.deps.json
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\bin\Debug\net8.0\Factory.Method.runtimeconfig.json
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\bin\Debug\net8.0\Factory.Method.dll
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\bin\Debug\net8.0\Factory.Method.pdb
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.sourcelink.json
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.dll
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\refint\Factory.Method.dll
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.pdb
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\Factory.Method.genruntimeconfig.cache
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\Factory.Method\Factory.Method\obj\Debug\net8.0\ref\Factory.Method.dll
