@@ -28,4 +28,15 @@ namespace Abstract.Factory
         }
     }
 
+    /// <summary>
+    /// 新增数据库日志
+    /// </summary>
+    public class DataBaseLogger : ILogger
+    {
+        public void Log(string message)
+        {
+            Console.WriteLine("DataBaseLogger: " + message);
+            // 实现写入文件的代码
+        }
+    }
 }

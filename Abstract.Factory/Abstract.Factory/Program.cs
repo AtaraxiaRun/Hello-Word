@@ -16,5 +16,10 @@ class Program
         loggerFactory = new FileLoggerFactory();
         logger = loggerFactory.CreateLogger();
         logger.Log("This is a file log.");
+
+        // 使用数据库日志记录器
+        loggerFactory = new FileLoggerFactory();
+        logger = loggerFactory.CreateLogger();
+        logger.Log("This is a DataBaseLogger log.");
     }
 }

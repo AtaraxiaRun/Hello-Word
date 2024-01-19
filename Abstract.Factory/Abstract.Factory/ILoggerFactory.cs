@@ -29,4 +29,16 @@ namespace Abstract.Factory
         }
     }
 
+    /// <summary>
+    /// 新增数据库
+    /// </summary>
+    public class DataBaseLoggerFactory : ILoggerFactory
+    {
+        public ILogger CreateLogger()
+        {
+            // 返回 DataBaseLogger 实例
+            return new DataBaseLogger();
+        }
+    }
+
 }
