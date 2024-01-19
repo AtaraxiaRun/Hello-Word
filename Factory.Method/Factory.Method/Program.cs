@@ -16,5 +16,9 @@ class Program
 
         logger = factory.CreateLogger("File");
         logger.Log("This is a file log.");
+
+        //新增数据库日志写入
+        logger = factory.CreateLogger("DataBaseLogger");
+        logger.Log("This is a databaselogger log.");
     }
 }

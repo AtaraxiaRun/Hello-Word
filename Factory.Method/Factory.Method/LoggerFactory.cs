@@ -24,6 +24,11 @@ namespace Factory.Method
             {
                 return new FileLogger();
             }
+            else if (type.Equals("DataBaseLogger"))
+            {
+                return new DataBaseLogger();
+
+            }
             else
             {
                 throw new Exception("Invalid logger type");
@@ -38,6 +43,11 @@ namespace Factory.Method
         public ILogger CreateFileLogger()
         {
             return new FileLogger();
+        }
+
+        public ILogger CreateDataBaseLogger()
+        {
+            return new DataBaseLogger();
         }
     }
 }

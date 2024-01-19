@@ -30,17 +30,20 @@ namespace Factory.Method
     /// </summary>
     public class FileLogger : ILogger
     {
-        private string _filePath;
-
-        public FileLogger(string filePath)
-        {
-            _filePath = filePath;
-        }
 
         public void Log(string message)
         {
             // 将日志写入文件（这里简化为打印到控制台）
             Console.WriteLine("FileLogger: " + message);
+        }
+    }
+
+    public class  DataBaseLogger:ILogger
+    {
+        public void Log(string message)
+        {
+            // 将日志写入文件（这里简化为打印到控制台）
+            Console.WriteLine("DataBaseLogger: " + message);
         }
     }
 }
