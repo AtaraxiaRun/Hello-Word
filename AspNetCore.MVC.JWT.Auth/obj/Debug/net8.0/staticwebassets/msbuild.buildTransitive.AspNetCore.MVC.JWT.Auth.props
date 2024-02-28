@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AspNetCore.MVC.JWT.Auth.props" />
+</Project>
