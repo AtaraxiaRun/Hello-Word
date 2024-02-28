@@ -1,0 +1,15 @@
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\bin\Debug\net8.0\设计模式测试.exe
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\bin\Debug\net8.0\设计模式测试.deps.json
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\bin\Debug\net8.0\设计模式测试.runtimeconfig.json
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\bin\Debug\net8.0\设计模式测试.dll
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\bin\Debug\net8.0\设计模式测试.pdb
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.AssemblyInfoInputs.cache
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.AssemblyInfo.cs
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.sourcelink.json
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.dll
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\refint\设计模式测试.dll
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.pdb
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\设计模式测试.genruntimeconfig.cache
+D:\BaiduNetdiskDownload\SWCODE\GitHub\Hello-Word\设计模式测试\设计模式测试\obj\Debug\net8.0\ref\设计模式测试.dll

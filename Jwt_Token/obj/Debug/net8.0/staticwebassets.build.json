@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ri7SoPObiy1nJD2i86EC/LMZfQk2UjPOU9v6RiucQe0=",
+  "Source": "Jwt_Token",
+  "BasePath": "_content/Jwt_Token",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

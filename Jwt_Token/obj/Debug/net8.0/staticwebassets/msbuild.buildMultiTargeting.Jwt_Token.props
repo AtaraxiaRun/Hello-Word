@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jwt_Token.props" />
+</Project>
