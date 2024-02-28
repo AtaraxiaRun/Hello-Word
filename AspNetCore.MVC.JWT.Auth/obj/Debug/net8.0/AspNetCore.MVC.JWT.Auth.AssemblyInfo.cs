@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCore.MVC.JWT.Auth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65cb297abdb111b2ca8ebfe9710c832aa4aa35cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCore.MVC.JWT.Auth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCore.MVC.JWT.Auth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
