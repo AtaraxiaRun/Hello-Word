@@ -5,9 +5,9 @@ using Microsoft.AspNetCore.Mvc.Filters;
 
 namespace AspNetCore.MVC.JWT.Auth.Filter
 {
-    public class MyActionAuthrizaFilterAttribute : Attribute, IActionFilter
+    public class MyActionAuthrizaFilterAttribute : ActionFilterAttribute
     {
-        public void OnActionExecuted(ActionExecutedContext context)
+        public override void OnActionExecuted(ActionExecutedContext context)
         {
             //throw new NotImplementedException();
         }
@@ -15,7 +15,7 @@ namespace AspNetCore.MVC.JWT.Auth.Filter
         /// 进入action前
         /// </summary>
         /// <param name="context"></param>
-        public void OnActionExecuting(ActionExecutingContext context)
+        public override void OnActionExecuting(ActionExecutingContext context)
         {
             //throw new NotImplementedException();
             Console.WriteLine("开始验证权限...");
