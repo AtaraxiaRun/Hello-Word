@@ -5,6 +5,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AspNetCore.MVC.JWT.Auth.Controllers
 {
+    /// <summary>
+    /// 项目原地址：https://github.com/weixiaolong325/SessionAuthorized.Demo
+    /// </summary>
     [MyActionAuthrizaFilterAttribute]
     public class HomeController : Controller
     {
